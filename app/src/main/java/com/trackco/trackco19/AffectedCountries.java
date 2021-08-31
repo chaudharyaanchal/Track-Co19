@@ -139,7 +139,6 @@ public class AffectedCountries extends AppCompatActivity {
                             simpleArcLoader.stop();
                             simpleArcLoader.setVisibility(View.GONE);
                         }
-
                     }
                 }, new Response.ErrorListener() {
             @Override
